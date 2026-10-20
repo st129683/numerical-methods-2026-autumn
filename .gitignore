@@ -1,0 +1,25 @@
+# bash scripts
+*.sh
+
+# python compiled files
+*.pyc
+__pycache__/
+
+# virtual environments
+.venv/
+venv/
+env/
+.env/
+.myenv/
+myenv/
+
+# ide / editor settings
+.idea/
+*.iml
+.vscode/
+
+# plot images
+*.png
+
+# macOS finder attributes
+.DS_Store
